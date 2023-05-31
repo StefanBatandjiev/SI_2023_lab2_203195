@@ -21,10 +21,10 @@
 
 
 # Тест случаи според критериумот Multiple Condition
-за критериумот Multiple Condition имаме 4 тест случаеви
+За критериумот Multiple Condition имаме 4 тест случаеви
 
 
-username!=null password!=null email==null F F T
-username!=null password==null email!=null F T F
-username==null password!=null email!=null T F F
-username==null password==null email==null T T T
+- username!=null password!=null email==null F F T
+- username!=null password==null email!=null F T F
+- username==null password!=null email!=null T F F
+- username==null password==null email==null T T T

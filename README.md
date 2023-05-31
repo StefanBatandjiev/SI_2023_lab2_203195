@@ -17,7 +17,8 @@
 - нема username, невалиден password
 - username постои, e,email постои, password < 8
 - password со space, различен user
-![Screenshot_346](https://github.com/StefanBatandjiev/SI_2023_lab2_203195/assets/86986482/57d59529-5b64-4f72-af3f-fc0e02e5212b)
+![Screenshot_347](https://github.com/StefanBatandjiev/SI_2023_lab2_203195/assets/86986482/678fc2f0-e44c-4910-9c23-d611d4a81077)
+
 
 
 # Тест случаи според критериумот Multiple Condition
